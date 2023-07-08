@@ -12,7 +12,7 @@
   ],
   "plugins": ["@typescript-eslint", "prettier"],
   "rules": {
-      "prettier/prettier": "Error",
+      "prettier/prettier": "off",
       // not needed for vue 3
       "vue/no-multiple-template-root": "off"
   }
